@@ -1,6 +1,6 @@
 # 𝓗𝓲, 𝓘'𝓶 𝓜𝓲𝔃𝓾𝓶𝓪𝓻𝓾 | 𝓜𝓲𝔃𝓾𝓢𝓬𝓻𝓲𝓹𝓽𝓼
 
-![Banner](https://i.imgur.com/yourImageLink.png) <!-- Replace with your image link -->
+![Banner]([https://i.imgur.com/yourImageLink.png](https://i.pinimg.com/originals/c8/0c/fb/c80cfb332618bcec4927936d8553095d.gif)) <!-- Replace with your image link -->
 
 Hi! I'm Mizumaru, also known as **MizuScripts**. 👋  
 
