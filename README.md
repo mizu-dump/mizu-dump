@@ -10,7 +10,7 @@
 
 Hi! I'm Mizumaru, also known as **MizuScripts**. 👋  
 
-My goal is to become a professional **Luau, HTML, and C# coder**.  
+> My goal is to become a professional **Luau, HTML, and C# coder**.  
 I enjoy **anime, music, and being alone in bed while it rains**. 🌧️🎶  
 
 ---
@@ -27,7 +27,7 @@ A **Roblox script hub** with fully overpowered features.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizu-dump/)
 
 ---
 
