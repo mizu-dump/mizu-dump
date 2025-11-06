@@ -17,9 +17,9 @@ I enjoy **anime, music, and being alone in bed while it rains**. 🌧️🎶
 
 ## 📌 Projects
 
-### **MizuHub**
-A **Roblox script hub** with fully overpowered features.  
-> ⚠️ **Use with caution!** It may put your account at risk.  
+### **MizuHub Community**
+The **Roblox Script Community Hub** with fully overpowered features.  
+> ⚠️ **Use With Caution!** It may put your account at risk.  
 
 ---
 
