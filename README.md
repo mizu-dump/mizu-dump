@@ -19,7 +19,7 @@ I enjoy **anime, music, and being alone in bed while it rains**. 🌧️🎶
 
 ### **MizuHub Community**
 The **Roblox Script Community Hub** with fully overpowered features.  
-> ⚠️ **Use With Caution!** It may put your account at risk.  
+> ⚠️ **Use With Caution!** It may put your account at risk. > (i am not responsible for this)
 
 ---
 
